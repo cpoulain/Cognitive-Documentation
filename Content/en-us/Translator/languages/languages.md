@@ -1,4 +1,4 @@
-<!-- 
+u<!-- 
 NavPath: Translator API
 LinkLabel: Languages
 Weight: 140
@@ -13,4 +13,4 @@ In the 'Scope' parameter of the method; add one or all three of the groups and t
 
 [Click here to try out the languages method.] (http://docs.microsofttranslator.com/languages.html)
 
-[Click here to see the langauge list on our web site.] (https://www.microsoft.com/en-us/translator/languages.aspx)
+[Click here to see the language list on our web site.] (https://www.microsoft.com/en-us/translator/languages.aspx)
